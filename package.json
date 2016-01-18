@@ -1,0 +1,24 @@
+{
+  "name": "neural-networks-and-deep-learning-js",
+  "version": "1.0.0",
+  "description": "A JavaScript implementation for \"Neural Networks and Deep Learning\" by Michael Nielsen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yujiosaka/neural-networks-and-deep-learning-js.git"
+  },
+  "author": "yujiosaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yujiosaka/neural-networks-and-deep-learning-js/issues"
+  },
+  "homepage": "https://github.com/yujiosaka/neural-networks-and-deep-learning-js",
+  "dependencies": {
+    "jstat": "^1.1.5",
+    "linear-algebra": "git://github.com/yujiosaka/linear-algebra#for_neural_networks_and_deep_learning",
+    "lodash": "^4.0.0"
+  }
+}

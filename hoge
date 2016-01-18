@@ -1,0 +1,32 @@
+Training mini-batch number 0
+Training mini-batch number 1000
+Training mini-batch number 2000
+Training mini-batch number 3000
+Training mini-batch number 4000
+Epoch 0: validation accuracy 0.8983
+This is the best validation accuracy to date.
+The corresponding test accuracy 0.8978
+Training mini-batch number 5000
+Training mini-batch number 6000
+Training mini-batch number 7000
+Training mini-batch number 8000
+Training mini-batch number 9000
+Epoch 1: validation accuracy 0.8992
+This is the best validation accuracy to date.
+The corresponding test accuracy 0.8953
+Training mini-batch number 10000
+Training mini-batch number 11000
+Training mini-batch number 12000
+Training mini-batch number 13000
+Training mini-batch number 14000
+Epoch 2: validation accuracy 0.8974
+Training mini-batch number 15000
+Training mini-batch number 16000
+Training mini-batch number 17000
+Training mini-batch number 18000
+Training mini-batch number 19000
+Epoch 3: validation accuracy 0.903
+This is the best validation accuracy to date.
+The corresponding test accuracy 0.8957
+Training mini-batch number 20000
+Training mini-batch number 21000
